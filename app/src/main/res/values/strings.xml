@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">三星国行安全关闭</string>
+    <string name="xposed_description">一键关闭三星国行 One UI 安全组件、设备保护、自动拦截程序及安装器云端检测</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>android</item>
+        <item>com.samsung.android.sm_cn</item>
+        <item>com.samsung.android.sm.devicesecurity.tcm</item>
+        <item>com.samsung.android.sm.devicesecurity</item>
+        <item>com.samsung.android.rampart</item>
+        <item>com.samsung.android.packageinstaller</item>
+        <item>com.google.android.packageinstaller</item>
+        <item>com.android.packageinstaller</item>
+    </string-array>
+</resources>
